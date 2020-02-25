@@ -1,6 +1,6 @@
 # IJKMediaFramework.framework
 
-很多疑难问题的解决方案参考https://blog.wskfz.com/index.php/archives/59/
+#     很多疑难问题的解决方案参考https://blog.wskfz.com/index.php/archives/59/
 
 #     导入这个framework有一些依赖
 #     Build Phases -> Link Binary with Libraries -> Add:
